@@ -6,4 +6,4 @@ This poster summarizes the 120 words in the core language [book](https://www.tok
 
 The poster is made with [Typst](https://typst.app).
 
-Feel free to use in any way you see fit.
+Feel free to use in any way you see fit. If you'd like extra words or a different font please feel free to open an issue.
