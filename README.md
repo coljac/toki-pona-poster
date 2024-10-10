@@ -1,4 +1,5 @@
 # My poster
+![Pic of poster](pic.png)
 
 For printing and putting on my wall.
 
